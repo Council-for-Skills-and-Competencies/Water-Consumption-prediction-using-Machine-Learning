@@ -16,9 +16,4 @@ Water is something we all need every day, but with cities expanding, it is becom
 - Scikit-learn  
 
 ## Outcome
-The model predicts water usage based on different factors such as household and environment. This can help reduce wastage and improve water management.
-
-## Next Steps
-- Try stronger models to improve results,  
-- Build a simple tool where users can input their data,  
-- Use real sensor data in the future.  
+The model predicts water usage based on different factors such as household and environment. This can help reduce wastage and improve water management. 
